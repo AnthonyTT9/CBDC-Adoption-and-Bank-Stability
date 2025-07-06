@@ -7,8 +7,8 @@ This project investigates how the adoption of Central Bank Digital Currencies (C
 Does the adoption of CBDCs improve banking stability, and does this effect vary with a country's level of economic development?
 
 ### Tools & Methods
-Language: R
-Libraries: dplyr, tidyr, plm, lmtest, sandwich
+- Language: R
+- Libraries: dplyr, tidyr, plm, lmtest, sandwich
 
 ### Methods:
 - Fixed-effects panel regression
