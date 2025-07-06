@@ -10,7 +10,7 @@ Does the adoption of CBDCs improve banking stability, and does this effect vary 
 - Language: R
 - Libraries: dplyr, tidyr, plm, lmtest, sandwich
 
-### Methods:
+### Methods
 - Fixed-effects panel regression
 - Robustness checks using interaction terms
 - Alternative specifications using dummy variables and Bank Z-scores
@@ -30,7 +30,7 @@ Does the adoption of CBDCs improve banking stability, and does this effect vary 
 - Included interaction terms with GDP per capita to test heterogeneity in effects by income level
 - Ran robustness checks using alternative specifications (e.g., Z-score as dependent variable)
 
-** Key Findings
+### Key Findings
 - CBDC adoption is positively associated with bank liquidity in developing economies.
 - The positive impact diminishes as GDP per capita increases, suggesting a conditional effect based on economic development.
 - Robustness checks with Z-score and alternative specifications support the main findings.
